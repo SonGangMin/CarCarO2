@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "edurootroot",
+    "database": "CarCarO",
+    "host": "db",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "edurootroot",
+    "database": "CarCarO",
+    "host": "db",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "edurootroot",
+    "database": "CarCarO",
+    "host": "db",
+    "dialect": "mysql"
+  }
+}
